@@ -43,9 +43,6 @@ diagram was then converted into a relational schema.
 
 ## ER Diagram
 
-> **Image placeholder:** Export the diagram from StarUML, rename it to
-> `flipkart-er-diagram.png`, and place it inside the `assets` folder.
-
 <p align="center">
   <img src="https://github.com/santhosh-v07/DBMS-TASKS/blob/main/Task_3/Flipkart%20E-Commerce%20ER%20Diagram.jpg?raw=true"
        alt="Flipkart E-Commerce ER Diagram"
