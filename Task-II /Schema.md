@@ -1,3 +1,4 @@
+```MySQL
 create table category(
 category_id integer primary key auto_increment,
 category_name varchar(100) not null unique,
@@ -45,3 +46,4 @@ group by category_name;
 
 select * from product
 select * from category
+```
